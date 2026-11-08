@@ -1,6 +1,6 @@
 # Playwright Python Demo
 
-![tests](https://github.com/AbhinavKumaar/playwright-python-demo/actions/workflows/tests.yml/badge.svg)
+[![tests](https://github.com/AbhinavKumaar/playwright-python-demo/actions/workflows/tests.yml/badge.svg)](https://github.com/AbhinavKumaar/playwright-python-demo/actions/workflows/tests.yml)
 
 End-to-end and API tests for the public demo shop [saucedemo.com](https://www.saucedemo.com),
 written with Playwright and pytest in Python.
