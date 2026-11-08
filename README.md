@@ -32,3 +32,8 @@ Use `pytest --headed` to watch the browser.
     tests/      test files
     conftest.py shared fixtures
     pytest.ini  pytest configuration
+
+## Notes
+- Locators: role-based first (`get_by_role`), `data-test` attributes where roles weren't reliable.
+- Compared with my Appium/Robot Framework work: same ideas (page objects, fixtures, waits),
+  but Playwright auto-waits and retries assertions, so there are no manual sleeps.
